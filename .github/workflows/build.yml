@@ -1,4 +1,4 @@
-name: openwrt.x64
+name: test.x64
 
 on:
   release:
